@@ -18,7 +18,7 @@ HardWorship is a QT desktop application that presents the lyrics of the music as
 5. Click "Log In" button.
 6. If you do not have an account, click "Sign up" button.
 7. Fill in informations about yourself and click "Sign up" button again.
-
+![1](https://github.com/sleepyhong/HardWorship/blob/main/screenshots/1.png?raw=true)
 8. Click "New Song" button to create a new song
 9. Select a song from the list, and click "Delete" button to delete permenantly.
 10. Select a song from the list, and type the new title, and click "Change" button to change the name of the song.
