@@ -30,3 +30,7 @@ HardWorship is a QT desktop application that presents the lyrics of the music as
 15. Select a lyric from "Lyrics", and click "Delete" button to delete the lyric.
 ![3](https://github.com/sleepyhong/HardWorship/blob/main/screenshots/3.png?raw=true)
 16. Select a lyric from "Lyrics", and background image, and click "Project" button to present the slide to the second GUI.
+
+# Technologies / Programming Language Used
+Software: Qt, MySql
+Programming Language: C++, SQL
