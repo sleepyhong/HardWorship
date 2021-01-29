@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song>
+	<verse num = "1">
+		<lyric>Can't go back to the beginning </lyric>
+		<lyric>Can't control what tomorrow will bring </lyric>
+		<lyric>But I know here in the middle </lyric>
+		<lyric>Is the place where You promise to be</lyric>
+	</verse>
+	<chorus>
+		<lyric>I'm not enough unless You come </lyric>
+		<lyric>Will You meet me here again</lyric>
+		<lyric>'Cause all I want is all You are </lyric>
+		<lyric>Will You meet me here again</lyric>
+	</chorus>
+	<verse num = "2">
+		<lyric>As I walk now through the valley </lyric>
+		<lyric>Let Your love rise above every fear </lyric>
+		<lyric>Like the sun shaping the shadow </lyric>
+		<lyric>In my weakness Your glory appears</lyric>
+	</verse>
+	<bridge>
+		<lyric>Not for a minute</lyric>
+		<lyric>Was I forsaken </lyric>
+		<lyric>The Lord is in this place </lyric>
+		<lyric>The Lord is in this place</lyric>
+	</bridge>
+	<bridge>
+		<lyric>Come Holy Spirit</lyric>
+		<lyric>Dry bones awaken</lyric>
+		<lyric>The Lord is in this place </lyric>
+		<lyric>The Lord is in this place</lyric>
+	</bridge>
+</song>

@@ -1,0 +1,13 @@
+release/HardWorshipSystem.o
+release/LoginWindow.o
+release/MainWindow.o
+release/QSearchBar.o
+release/SignupWindow.o
+release/SlideWindow.o
+release/Song.o
+release/main.o
+release/moc_LoginWindow.o
+release/moc_MainWindow.o
+release/moc_QSearchBar.o
+release/moc_SignupWindow.o
+release/moc_SlideWindow.o

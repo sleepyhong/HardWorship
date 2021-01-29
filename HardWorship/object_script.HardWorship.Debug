@@ -1,0 +1,13 @@
+debug/HardWorshipSystem.o
+debug/LoginWindow.o
+debug/MainWindow.o
+debug/QSearchBar.o
+debug/SignupWindow.o
+debug/SlideWindow.o
+debug/Song.o
+debug/main.o
+debug/moc_LoginWindow.o
+debug/moc_MainWindow.o
+debug/moc_QSearchBar.o
+debug/moc_SignupWindow.o
+debug/moc_SlideWindow.o
