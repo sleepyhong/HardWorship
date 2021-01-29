@@ -24,9 +24,9 @@ HardWorship is a QT desktop application that presents the lyrics of the music as
 10. Select a song from the list, and type the new title, and click "Change" button to change the name of the song.
 11. Select a song from the list, and click "Add" button to add the song to the "List of Selected Music"
 12. Select a song from the "List of Selected Music", and click "Remove" button to remove the song from the list.
-
+![2](https://github.com/sleepyhong/HardWorship/blob/main/screenshots/2.png?raw=true)
 13. Select a song from the "List of Selected Music", and click "Add" button to add new section of lyrics to the song.
 14. Select a lyric from "Lyrics", and edit lyrics and lyric type, and click "change" to save the progress.
 15. Select a lyric from "Lyrics", and click "Delete" button to delete the lyric.
-
+![3](https://github.com/sleepyhong/HardWorship/blob/main/screenshots/3.png?raw=true)
 16. Select a lyric from "Lyrics", and background image, and click "Project" button to present the slide to the second GUI.
