@@ -32,5 +32,5 @@ HardWorship is a QT desktop application that presents the lyrics of the music as
 16. Select a lyric from "Lyrics", and background image, and click "Project" button to present the slide to the second GUI.
 
 # Technologies / Programming Language Used
-Software: Qt, MySql
-Programming Language: C++, SQL
++ Software: Qt, MySql
++ Programming Language: C++, SQL
